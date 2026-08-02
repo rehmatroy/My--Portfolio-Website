@@ -33,13 +33,13 @@ const Profile = () => {
           <h2
             className={`text-2xl xxs:text-3xl sm:text-4xl lg:text-[38px] text-[min(24px,38px)] max-md:text-center font-semibold mb-8`}
           >
-            I am Professional Front End Developer
+            I am Professional Fullstack Developer
           </h2>
           <div
             className={`text-xs xs:text-[16px] lg:text-lg font-normal max-md:text-center text-gray-600`}
           >
             <p className={``}>
-              I am a Professional Front-End and CMS Developer with expertise in React.js, JavaScript, Webflow, and WordPress. I design and develop modern, responsive, and high-performing websites and web applications.
+              I am a Professional Fullstack Developer with expertise in React.js, Node.js, JavaScript, Webflow, and WordPress. I design and develop modern, responsive, and high-performing websites and web applications.
             </p>
             <p className="mt-3">
               My focus is on clean code, user-friendly design, and creating seamless CMS solutions that empower businesses to manage their content with ease and grow their online presence.

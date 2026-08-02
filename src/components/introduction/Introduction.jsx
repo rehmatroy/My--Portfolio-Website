@@ -36,9 +36,7 @@ const Introduction = () => {
             </span>
           </p>
           <p className="text-xs xxs:text-lg lg:text-[18px] my-6">
-            I'm a Freelance <span className="bg-highlight">Front End Developer</span>{" "}
-            and <span className="bg-highlight"> Webflow Designer</span> based in
-            Gilgit, Pakistan. I specialize in React.js, JavaScript, HTML5, CSS3, Bootstrap 5, Tailwind CSS, Webflow, and WordPress. I create fast, responsive, and user-friendly websites and web applications with clean code and modern design.
+            I'm Freelance <span className="bg-highlight">Fullstack Developer</span>{" "} and <span className="bg-highlight"> Webflow & WordPress Expert</span> based in Gilgit, Pakistan. I build fast, scalable, and user-friendly websites and web applications using React.js, Next.js, Node.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap 5, Webflow, and WordPress (Elementor). I also integrate AI-powered solutions and APIs to create modern, high-performing digital experiences with clean code, responsive design, and a strong focus on user experience.
           </p>
           <p className="text-center lg:text-start">
             <a

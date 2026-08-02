@@ -37,7 +37,7 @@ const Profession = () => {
         <p className="section-title max-md:text-center">What I do?</p>
         <div className="mt-6 text-[14px]">
           <p className="text-xs sm:text-lg font-normal text-gray-400 mb-4">
-            I specialize in creating responsive and user-friendly web applications with modern front-end tools like React.js, HTML, CSS, Bootstrap, Tailwind, and Webflow. My focus is on turning designs into functional, pixel-perfect interfaces while ensuring speed, performance, and seamless user experiences.
+            I specialize in creating responsive and user-friendly web applications with modern front-end tools like React.js, HTML, CSS, Bootstrap, Tailwind, and Webflow & Wordpress. My focus is on turning designs into functional, pixel-perfect interfaces while ensuring speed, performance, and seamless user experiences.
           </p>
           <p className="text-xs sm:text-lg font-normal text-gray-400">
             My approach combines creativity and technical expertise to deliver
