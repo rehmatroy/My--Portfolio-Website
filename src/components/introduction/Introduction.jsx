@@ -7,7 +7,7 @@ const informationSummaryData = [
   {
     id: 1,
     title: "Experience",
-    description: "4 Y.",
+    description: "5 Y.",
   },
   {
     id: 2,
@@ -29,14 +29,11 @@ const Introduction = () => {
     >
       <div className="w-full flex flex-col justify-between max-lg:text-center">
         <div className="pt-13 me-31.5 w-full lg:w-auto transition-all duration-500">
-          <p className="text-3xl xxs:text-4xl sm:max-xl:text-5xl xl:text-6xl font-semibold w-full">
-            Hey, I’m
-            <span className="text-nowrap shrink-0 inline-block w-full pt-1">
-              Rehmat Ali
-            </span>
+          <p className="text-3xl xxs:text-4xl sm:max-xl:text-5xl xl:text-5xl font-semibold w-full">
+              I’m Rehmat Ali
           </p>
           <p className="text-xs xxs:text-lg lg:text-[18px] my-6">
-            I'm Freelance <span className="bg-highlight">Fullstack Developer</span>{" "} and <span className="bg-highlight"> Webflow & WordPress Expert</span> based in Gilgit, Pakistan. I build fast, scalable, and user-friendly websites and web applications using React.js, Next.js, Node.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap 5, Webflow, and WordPress (Elementor). I also integrate AI-powered solutions and APIs to create modern, high-performing digital experiences with clean code, responsive design, and a strong focus on user experience.
+            I'm a Freelance <span className="bg-highlight">Full-Stack Developer</span>{" "} and <span className="bg-highlight"> Webflow & WordPress Expert</span> based in Gilgit, Pakistan. I build fast, scalable, and user-friendly websites and web applications using React.js, Next.js, Node.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap 5, Webflow, and WordPress (Elementor). I also integrate AI-powered solutions and APIs to create modern, high-performing digital experiences with clean code, responsive design, and a strong focus on user experience.
           </p>
           <p className="text-center lg:text-start">
             <a

@@ -1,6 +1,6 @@
 import person from "../../assets/images/man.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faDownload } from "@fortawesome/free-solid-svg-icons";
+import { faEye } from "@fortawesome/free-solid-svg-icons";
 import SocialMedia from "../common/socialMedia/SocialMedia";
 
 const Profile = () => {
@@ -31,19 +31,17 @@ const Profile = () => {
 
         <div className="max-sm:w-full w-[33rem]">
           <h2
-            className={`text-2xl xxs:text-3xl sm:text-4xl lg:text-[38px] text-[min(24px,38px)] max-md:text-center font-semibold mb-8`}
+            className={`text-2xl xxs:text-3xl sm:text-2xl lg:text-[32px] text-[min(24px,38px)] max-md:text-center font-semibold mb-8`}
           >
-            I am Professional Fullstack Developer
+            Full-Stack Developer | Webflow & WordPress Expert
           </h2>
           <div
             className={`text-xs xs:text-[16px] lg:text-lg font-normal max-md:text-center text-gray-600`}
           >
             <p className={``}>
-              I am a Professional Fullstack Developer with expertise in React.js, Node.js, JavaScript, Webflow, and WordPress. I design and develop modern, responsive, and high-performing websites and web applications.
-            </p>
-            <p className="mt-3">
-              My focus is on clean code, user-friendly design, and creating seamless CMS solutions that empower businesses to manage their content with ease and grow their online presence.
-            </p>
+              I'm a Full-Stack Developer specializing in React.js, Next.js, Node.js, JavaScript, Webflow, and WordPress. I build fast, scalable, and user-friendly websites and web applications that combine modern design with clean, maintainable code. 
+              <br /> <br />
+              From custom web applications to high-converting business websites, I focus on creating responsive, SEO-friendly, and performance-optimized digital experiences. I also integrate APIs and AI-powered solutions to help businesses automate workflows, improve user experiences, and grow their online presence.            </p>
           </div>
           <div className="mt-8 flex max-md:justify-center">
             <a
@@ -54,11 +52,11 @@ const Profile = () => {
             </a>
             <a
               className={`btn xxs:btn-lg px-6 max-xs:px-2 xxs:py-3 hover:border-picto-primary bg-white duration-300 transition-all hover:text-picto-primary ms-4 text-xs xxs:text-[14px] sm:text-[16px]`}
-              href="https://reume-github.netlify.app/"
+              href="./Fullstack-Developer-Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FontAwesomeIcon icon={faDownload} /> Download CV
+              <FontAwesomeIcon icon={faEye} /> View CV
             </a>
 
           </div>
